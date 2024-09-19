@@ -50,6 +50,7 @@ print(a,b,c)#se implimiran en el orden de abc
 
 print(a,c,a)#se implimiran en el orden de aca
 
-![image](https://github.com/user-attachments/assets/25d115c2-1cec-41a8-a1c7-d3928c494c61)
+![image](https://github.com/user-attachments/assets/1f2f4071-c7f7-4a91-8e55-c2bfa41f05af)
+
 ![image](https://github.com/user-attachments/assets/e0392ecc-bb76-4dfe-89e7-9b45e56f33c2)
 
