@@ -2,7 +2,7 @@
 plactica 4, 3-W
 
 print(" ")
-print("Emmanuel castruita soto esta es mi practica 1 variables " )
+print("Emmanuel Castruita Soto esta es mi practica 1 variables " )
 
 print(" ")
 
