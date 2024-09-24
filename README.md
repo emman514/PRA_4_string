@@ -48,9 +48,13 @@ c=("soy emmanuel y esta es mi 4 plactica ")#se le da el valor de cuerpo de texto
 
 print(a,b,c)#se implimiran en el orden de abc
 
-print(a,c,a)#se implimiran en el orden de aca
+print(a,c,a)#se implimiran en el orden de ac
 
-![image](https://github.com/user-attachments/assets/1f2f4071-c7f7-4a91-8e55-c2bfa41f05af)
+#EL CODIGO
+
+![image](https://github.com/user-attachments/assets/9600c94d-6fba-4d26-95ad-3825e953d4cf)
+
+#RESULTADO
 
 ![image](https://github.com/user-attachments/assets/e0392ecc-bb76-4dfe-89e7-9b45e56f33c2)
 
